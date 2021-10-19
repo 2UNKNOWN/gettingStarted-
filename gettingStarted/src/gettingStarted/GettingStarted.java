@@ -15,7 +15,7 @@ public class GettingStarted {
 	public static void main(String[] args) {
 		//fixed A COMMENT
 		// another one 
-		System.out.println("hey");
+		System.out.println("hi");
 	}
 
 }
